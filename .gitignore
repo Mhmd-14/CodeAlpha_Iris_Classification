@@ -1,6 +1,36 @@
-venv/
+# Python cache files
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-*.pyc
-outputs/
+
+# Model files and artifacts
+*.pkl
+*.joblib
+
+# Data files (optional - if you don't want to version large CSVs)
 data/raw/
+data/processed/
+*.csv
+
+# VSCode config (if you're using VSCode)
+.vscode/
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit app logs
+.streamlit/
+
+# Logs or temp files
+*.log
+*.tmp

@@ -7,7 +7,7 @@ A machine learning model to classify the type of Iris flower based on input feat
 This project focuses on classifying type of Iris flowers based on input features. By utilizing historical features Sepal length, Sepal width, Petal length and Petal width, the model identifies patterns to classify the type of iris into on of the three categories ; Setisoa, Versicolor and virginica. The project employs Logistic Regression model for classification, with a focus on achieving high accuracy.
 
 ## 📁 Project Structure
-'''
+```
 ├── data/                # Raw and processed
 ├── models/              # Trained machine learning models
 ├── notebooks/           # Jupyter notebooks for exploratory data analysis (EDA), run_pipeline
@@ -17,7 +17,7 @@ This project focuses on classifying type of Iris flowers based on input features
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
 └── streamlit-app.py     # Streamlit application
-'''
+```
 ## 📊 Data
 
 -- Source: Iris dataset referred by CodeAlpha.(Downloaded from Kaggle) https://www.kaggle.com/datasets/saurabh00007/iriscsv

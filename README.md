@@ -64,4 +64,5 @@ The model's training, testing and deployment was done on around 150 row as downl
 
 ## 👤 Author
 Mohammad Ezzeddine
-github.com/Mhmd-14| in/mohammad-ezzeddine-14ae1
+
+github.com/Mhmd-14 | in/mohammad-ezzeddine-14ae1
